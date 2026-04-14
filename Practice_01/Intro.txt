@@ -1,0 +1,1 @@
+Hi, this is the practice set of excel in which I constructed synthetic data and perfomed analystical operations to deliver a dashboard with usefull insights.

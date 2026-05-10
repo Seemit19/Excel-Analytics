@@ -1,0 +1,17 @@
+This is a practice set of Excel Analytics.
+--
+In this I have studied the sales data of amazon. The whole data was stored in 4 excel sheets, each sheet holding a specififc category(Details of sales, product, region and customer) of data. The data was cleaned, standardized and enriched by different excel and analytical function.
+This is a pure excel based practice, hence the dashboard was created with internal functionality given by Microsoft Excel 2021.
+A report of insight was delivered with interactive dashboard.
+--
+A screenshot of dashboard was uploaded for individual help, though you can interact with the dashboard in the analysed final excel sheet named " Analysed amazon sales.xlsx ".
+--
+Folder schema: 
+Intro.text => An introduction file for the first time user.
+Raw Amazon sales.xlsx  =>  Raw data of amazon sales.
+Analysed amazon sales.xlsx  =>  Analysed excel workbook including KPIs, Dashboard and Matured data.
+Dashboard.png => Preview of dashboard.
+Amazon sales isight report.pdf => Insight report including key findings and prefered actions.
+--
+
+This is free to acess and use for practice if any user want to, feel free to contact me if i can help you somehow. 

@@ -8,7 +8,7 @@ A report of insight was delivered with interactive dashboard.
 A screenshot of dashboard was uploaded for individual help, though you can interact with the dashboard in the analysed final excel sheet named " Analysed amazon sales.xlsx ".
 --
 Folder schema: 
-Intro.text => An introduction file for the first time user.
+Intro.txt => An introduction file for the first time user.
 Raw Amazon sales.xlsx  =>  Raw data of amazon sales.
 Analysed amazon sales.xlsx  =>  Analysed excel workbook including KPIs, Dashboard and Matured data.
 Dashboard.png => Preview of dashboard.

@@ -1,6 +1,7 @@
 This is a practice set of Excel Analytics.
 --
-In this I have studied the sales data of amazon. The whole data was stored in 4 excel sheets, each sheet holding a specififc category(Details of sales, product, region and customer) of data. The data was cleaned, standardized and enriched by different excel and analytical function.
+In this I have studied the sales data of amazon. Data used for practice is just a dummy data that means it is not real sales data of Amazon company. 
+The whole data was stored in 4 excel sheets, each sheet holding a specififc category(Details of sales, product, region and customer) of data. The data was cleaned, standardized and enriched by different excel and analytical function.
 This is a pure excel based practice, hence the dashboard was created with internal functionality given by Microsoft Excel 2021.
 A report of insight was delivered with interactive dashboard.
 --
